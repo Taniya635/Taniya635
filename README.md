@@ -1,3 +1,5 @@
+<img align="center" alt="banner" width="1000" src="https://img.freepik.com/premium-vector/web-development-programming-languages-css-html-it-ui-programmer-cartoon-character-developing-website-coding-flat-illustration-banner_128772-1228.jpg?w=1800"/>
+
 # 💫 About Me:
 🤝 I’m curently working on projects to be build using React JS<br>🌱 I’m currently learning MERN<br>⚡ Fun fact:The first computer “bug” was an actual real-life bug.
 <img align="right" alt="coding" width="250" src="https://media.tenor.com/whgQwNlVvNkAAAAj/xero-code.gif"/>
