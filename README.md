@@ -1,6 +1,6 @@
 # 💫 About Me:
 🤝 I’m curently working on projects to be build using React JS<br>🌱 I’m currently learning MERN<br>⚡ Fun fact:The first computer “bug” was an actual real-life bug.
-<img align="right" alt="coding" width="300" src="https://media.tenor.com/whgQwNlVvNkAAAAj/xero-code.gif"/>
+<img align="right" alt="coding" width="250" src="https://media.tenor.com/whgQwNlVvNkAAAAj/xero-code.gif"/>
 
 
 <h3 align="center">A passionate frontend developer</h3>
