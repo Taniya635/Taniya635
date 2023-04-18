@@ -2,6 +2,7 @@
 
 # 💫 About Me:
 🤝 I’m curently working on projects to be build using React JS<br>🌱 I’m currently learning MERN<br>⚡ Fun fact:The first computer “bug” was an actual real-life bug.
+My Portfolio:https://taniya635.github.io/
 <img align="right" alt="coding" width="300" src="https://media.tenor.com/whgQwNlVvNkAAAAj/xero-code.gif"/>
 
 
@@ -23,15 +24,22 @@
 
 
 
-
+<h3>Most Used languages</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=taniya635&show_icons=true&locale=en&layout=compact" alt="taniya635" /></p>
 
 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Taniya635&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<!-- ![](https://github-contributor-stats.vercel.app/api?username=Taniya635&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Taniya635&icon=9&color=11)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Taniya635&icon=9&color=11)](https://visitcount.itsvg.in) -->
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=taniya635&show_icons=true&locale=en" alt="taniya635" /></p>
+
+<h3>Streaks</h3>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taniya635&" alt="taniya635" /></p>
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
