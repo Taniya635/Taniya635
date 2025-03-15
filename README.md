@@ -7,7 +7,7 @@
  💻 <a href="https://taniya635.github.io/">Portfolio</a>
 <!-- Portfolio https://taniya635.github.io -->
 
-<img align="right" alt="coding" width="300" src="https://camo.githubusercontent.com/691cdc5f9c4dc0e88650b97d480af9237d9422963bd1184f95e00087d3aa8bbd/68747470733a2f2f692e696d6775722e636f6d2f72486c456444712e676966"/>
+<img align="right" alt="coding" width="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWpkdThxaXN4NDhrZGRhZ3dpdndqYmJwczNiNzFwZGtrcHBraWt3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
