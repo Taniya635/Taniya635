@@ -1,4 +1,4 @@
-<img align="center" alt="banner" width="1000" src="https://i.ibb.co/xDP8wPW/White-Minimalist-Profile-Linked-In-Banner.png"/>
+<img align="center" alt="banner" width="1000" src="https://media.licdn.com/dms/image/v2/D4D16AQHYlYwjBr-07Q/profile-displaybackgroundimage-shrink_350_1400/B4DZWgF87jHkAc-/0/1742147672340?e=1747872000&v=beta&t=xoGlrzuV26mWTj56Ijnxmc_nMUs4-IoyspH7iraBWSA"/>
 
 <h1 align="center">Hello, I'm Taniya maurya</h1>
 <h3 align="center">A passionate frontend developer from Mumbai, Maharashtra</h3>
