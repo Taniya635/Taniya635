@@ -21,8 +21,6 @@
 <h3>Trophies:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taniya635" alt="taniya635" /></a> </p>
 
-
-
 <h3>Most Used languages</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=taniya635&show_icons=true&locale=en&layout=compact" alt="taniya635" /></p>
 
